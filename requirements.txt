@@ -1,0 +1,7 @@
+asyncio
+aiohttp[speedups]
+pytest
+pydantic
+sqlalchemy
+aiosqlite
+psycopg2
